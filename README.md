@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8215553.svg)](https://doi.org/10.5281/zenodo.8215553)
+
 # COVID_moonshot_FECs_data
 
 Collection of free energy calculation data run on [FoldingAtHome](https://foldingathome.org/?lng=en) during the COVID Moonshot. 
